@@ -1,0 +1,4 @@
+#Mon Apr 06 23:24:57 WIB 2020
+base.0=/home/nasri/Documents/Project/treva/build/app/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
